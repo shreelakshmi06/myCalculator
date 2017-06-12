@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="greeting">0.00</string>
+</resources>
